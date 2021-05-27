@@ -1,7 +1,9 @@
 ### Hi there. Call me Victor👋
 
-<!--
+
 **victordsgamorim/victordsgamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -12,7 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: victordsgamorim@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like cheese. 
--->
 
+Currently master's student at University of Trás-os-Montes and Alto Douro - Portugal, and looking for to be an Mobile Developer. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordsgamorim )](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordsgamorim&theme=tokyonight)
